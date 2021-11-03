@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    border-radius: 10px;
+    border: 1px double greenyellow;
+    width: 100%;
+}
+
+table tr,
+td,
+th {
+    border: 1px dotted greenyellow;
+}
+
+table td,
+th {
+    padding: 5px;
+}
+
+table td,
+th {
+    text-transform: uppercase;
+}
+table .noData {
+    text-transform: uppercase;
+}
+
+.header {
+    padding: 15px;
+}
